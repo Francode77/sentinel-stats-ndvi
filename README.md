@@ -1,6 +1,6 @@
 # Project Sentinel statistical API
 
-In this notebook I explore the use of SentinelHub statistical API to gather NDVI data in a 3 year timespan for two agricultural fields in Flanders region.
+In this notebook I use the SentinelHub statistical API to gather NDVI data in a 3 year timespan for two agricultural fields in Flanders region.
 
 # Installation
 Download the source .TIFF file from [this link](https://www.mediafire.com/view/p5mz28kul0gwldg/response.tiff/file)
