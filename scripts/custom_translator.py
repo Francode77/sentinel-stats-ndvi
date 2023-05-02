@@ -1,3 +1,5 @@
+## Custom translator function for English users
+
 def translate_to_ENG(df_agri):
     df_agri.rename(columns={"GEWASGROEP": "CROP_TYPE", "LENGTE": "LENGTH", "OPPERVL" : "SURF_AREA"},inplace=True)
 
