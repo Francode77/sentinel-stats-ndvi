@@ -51,7 +51,7 @@ We obtain the following chart of the NDVI of the two fields for a 3 years time p
 
 # Further info
 
-This notebook accompanies my [article on Medium]()
+This notebook accompanies my [article on Medium](https://medium.com/@francode77/seasonal-ndvi-charts-with-sentinel-2-86cff663d36)
 
 # Contributors
 
