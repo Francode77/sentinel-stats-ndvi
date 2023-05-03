@@ -27,7 +27,7 @@ External scripts, classes and functions are located in the `scripts` folder
 
 Outputs from UTM conversion will be saved in the `data/processed` folder
 
-Sentinel requests for specific fields will be saved in the `data/sentinel2/fields`folder
+Sentinel requests for specific fields will be saved in the `data/sentinel2/fields` folder
 
 Outputs from the violin-charts will be saved in the `data/export` folder
 
